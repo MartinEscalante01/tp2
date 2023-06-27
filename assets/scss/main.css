@@ -660,4 +660,7 @@ footer {
   .contenedor-seccionPrincipal {
     text-align: inherit;
   }
+  .contenedor-imagenes-galeria {
+    margin-top: 0px !important;
+  }
 }/*# sourceMappingURL=main.css.map */
